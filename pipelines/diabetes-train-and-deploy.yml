@@ -1,5 +1,5 @@
 variables:
-  ml-ws-connection: 'azmldemows' # Workspace Service Connection name
+  ml-ws-connection: 'datacore-connection' # Workspace Service Connection name
   ml-ws: 'datacore_dk' # AML Workspace name
   ml-rg: 'hdfs-testdk' # AML resource Group name
   ml-ct: 'dk-compute' # AML Compute cluster name
